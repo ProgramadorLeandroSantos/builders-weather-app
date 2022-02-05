@@ -1,7 +1,7 @@
 # builders-weather-app
 A stage of precess selective
 
-![Pedalada](https://github.com/ProgramadorLeandroSantos/Pedalada/blob/main/assets/lightmap.gif)
+![builders](https://github.com/ProgramadorLeandroSantos/builders-weather-app/blob/main/assets/night.gif)
 #### About the App: Application for android and ios is a simple app required for o job interview.
 
 ## How to use?
