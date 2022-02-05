@@ -13,7 +13,7 @@ A stage of precess selective
 ` in the project directory to start the `expo bundle` . <br/>
 5 - with the terminal openned in the project directory, running the  expo bundler and the emulator running, scan the QRCODE on your mobile device using expo go app or follow the steps in your terminal to start on emulator.
 
-### Or just download here
+### Its recomended test on you fisical device, download link bellow
 * https://exp.host/@programadorleandrosantos/Pedalada
 
 ###### Technologies used : React Native, StyledComponents,Typescript, React Context Api, Expo,OpenweathermapAPI.
