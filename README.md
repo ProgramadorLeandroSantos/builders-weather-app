@@ -1,6 +1,4 @@
 # builders-weather-app
-
-# Pedalada
 A stage of precess selective
 
 ![Pedalada](https://github.com/ProgramadorLeandroSantos/Pedalada/blob/main/assets/lightmap.gif)
