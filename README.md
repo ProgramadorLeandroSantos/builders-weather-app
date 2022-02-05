@@ -21,9 +21,6 @@ A stage of precess selective
 ` in the project directory to start the `expo bundle` . <br/>
 5 - with the terminal openned in the project directory, running the  expo bundler and the emulator running, scan the QRCODE on your mobile device using expo go app or follow the steps in your terminal to start on emulator.
 
-## about the screens
-There are 4 srceens including the splash screen
-Day,Everning and Night Has the same features
 
 ### Its recomended test on you fisical device to experience a better performance, download link bellow
 * https://exp.host/@programadorleandrosantos/GoBuildersWeather
